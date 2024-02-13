@@ -1,0 +1,2 @@
+# MagicConchShell
+Motoko AI Supergenerator
